@@ -13,3 +13,10 @@
 ## 사용법
 
 배포파일을 실행후에 학번과 비밀번호를 입력한다.
+## 요구사항
+ oss.py oss2.py를 테스트하기 위해서는 다음과 같은 준비가 필요합니다.
+ 실행 환경 : VisualStudioCode
+ 패키지 설치 : pip install requests, pip install beautifulsoup4, pip install lxml, pip install selenium
+ ChromeDriver 설치 : chrome 주소창에서 chrome:://version 입력 후 version 확인 후
+                     https://chromedriver.chromium.org/downloads 에서 version에 맞는 것을 다운로드 후
+                     oss.py 혹은 oss2.py와 동일한 위치에 
